@@ -1,0 +1,11 @@
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\bin\Debug\Trials_Eldor.dll
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\bin\Debug\Trials_Eldor.pdb
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\Trials_Eldor.csproj.AssemblyReference.cache
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\Trials_Eldor.csproj.CoreCompileInputs.cache
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\Trials_Eldor.dll
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\Trials_Eldor.pdb
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\Trials_Eldor_MarkupCompile.cache
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\Trials_Eldor_MarkupCompile.lref
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\DialogBox\dialogbox.g.cs
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\DialogBox\dialogbox.baml
+C:\Users\Al-Gamal\source\repos\Trials_Eldor\obj\Debug\Trials_Eldor.g.resources
